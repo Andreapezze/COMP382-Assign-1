@@ -1,0 +1,10 @@
+Why we chose topic #1:
+
+Me and Jang decided to choose this topic because we wanted to focus on a part of the course that emphasizes understanding and reasoning rather than heavy coding. The DFA-to-GNFA conversion felt like a good balance between being technical and being conceptual as it allowed us to work directly with the theory from the book and show that we truly understand how automata are transformed step by step, instead of relying on large amounts of code to do the work for us. Moreover, this topic is very well-covered by online sources, enabling us to get an even better understanding of the transitions' operations and of the concept itself.  
+
+
+References:
+- Sipser, M. (2013). Introduction to the theory of computation (3rd ed.). Cengage Learning.
+- Tim Randolph. (2022, May 26). Example 3: From DFA, to GNFA, to Regular Expression [Video]. YouTube. https://youtu.be/B_sWA0Kx2Jc?si=9CBC-VC4X68Q2uyv
+- Radhakrishna Dasari. (2020, Sept. 27). 5.3 DFA to GNFA to Regular Expression [Video]. YouTube. https://youtu.be/XFKNg6u3Luw?si=kxBV01nzQcmVmw-A
+- Enas. (2019, Nov. 03). GNFA and Qrip part2 [Video]. YouTube. https://youtu.be/VsZaZkuy6uY?si=t-M7sQ0JjWa2y9cz
